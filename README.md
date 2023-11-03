@@ -3,4 +3,4 @@ Created a project which detects the mood of the user and recommended a playlist 
 Implemented AI algorithms along with APIs which allowed to create a smart and hassle -free easy interface for the user
 
 # Tech Stack used
-AI/ML Modules, APIs, Python language
+AI/ML Modules, APIs, Python
